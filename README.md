@@ -4,7 +4,7 @@
 
 **Author**: [Carlos Padilla (cpadlab)](https://github.com/cpadlab/)
 
-**Medium Post**: [Blog: This is how to create a Simple PHP Web Shell (GPWShell-Proyect)]()
+**Medium Post**: [Blog: This is how to create a Simple PHP Web Shell (GPWShell-Proyect)](https://medium.com/@cpadlab/this-is-how-to-create-a-simple-php-web-shell-gpwshell-proyect-aff0106a40e2)
 
 **Author Web**: [Link](https://cpadlab.github.io/)
 
